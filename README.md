@@ -8,6 +8,10 @@ Resgate seus amigos usando suas habilidade de manobra em um helicoptero.
 * Tecla S para movimentar o helicóptero para baixo; e
 * Tecla D para atirar.
 
+## Como acessar:
+
+[Clique aqui](https://siqueira-gustavo.github.io/helicopterGame) para acessar.
+
 ## Linguagens utilizadas
 * HTML;
 * Javascript; e
